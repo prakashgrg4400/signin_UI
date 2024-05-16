@@ -13,6 +13,7 @@ body {
   color: blue;
 }
 
+
 button {
   cursor: pointer;
 }
@@ -211,4 +212,8 @@ svg{
   height: 20px;
   width: 20px;
   /* border: 2px solid green; */
+}
+
+input::-webkit-input-placeholder{
+  color: rgb(171, 166, 166);
 }
